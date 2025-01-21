@@ -1,7 +1,7 @@
 # 内容：Emby
 # 数量：5条
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,pub1.emby.wtf
-DOMAIN-SUFFIX,pub2.emby.wtf
-DOMAIN-SUFFIX,pub3.emby.wtf
-DOMAIN-SUFFIX,smart.media.cloudaria.net
+DOMAIN,emby.wtf
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub2.emby.wtf
+DOMAIN,pub3.emby.wtf
+DOMAIN,smart.media.cloudaria.net
