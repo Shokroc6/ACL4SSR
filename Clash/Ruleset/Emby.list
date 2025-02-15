@@ -1,7 +1,9 @@
 # 内容：Emby
-# 数量：5条
+# 数量：6条
 DOMAIN,emby.wtf
 DOMAIN,pub1.emby.wtf
 DOMAIN,pub2.emby.wtf
 DOMAIN,pub3.emby.wtf
 DOMAIN,smart.media.cloudaria.net
+DOMAIN,hka-emby3.aliz.work
+DOMAIN,hkb-emby.aliz.work
